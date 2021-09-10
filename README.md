@@ -18,10 +18,10 @@ alpha  alpha_git_id   beta   gamma
 gamma
 ```
 
-Here's the list!!!!!
+Here's the list....
 
 ```
-danecashion
+danecashion               
 dcolgan
 crouchb
 nenns
@@ -36,7 +36,7 @@ clarence64
 milan
 jacobdmorrison7
 jlness
-zcoster
+zcoster mKiloLA dustympage jlness
 dustympage
 rfsantill
 colstaub
